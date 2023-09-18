@@ -1,0 +1,13 @@
+﻿areaName,field,areaCost,investCost,minorDevCost,majorDevCost,DevName
+Starting Area,,,,,,
+Hydroelectricity,RENEWABLE_ENERGY,200,50,150,250,Hydropower Station
+Wind,RENEWABLE_ENERGY,200,50,150,250,Wind Farm
+Solar,RENEWABLE_ENERGY,200,50,150,250,Solar Farm
+Urban,REFORESTATION,300,75,250,350,Million Tree Initiative
+Rural,REFORESTATION,300,75,250,350,National Park Establishment
+Do Nothing,,,,,,
+Human,CONSERVATION,200,50,150,250,Environmental Scholarship Fund
+Marine,CONSERVATION,200,50,150,250,Ocean Clean-up Technology
+Animal,CONSERVATION,200,50,150,250,Conservation Campaign
+Compost,WASTE_MANAGEMENT,100,25,50,150,Composting Plant
+Recycle,WASTE_MANAGEMENT,100,25,50,150,Recycling Plant
