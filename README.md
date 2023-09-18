@@ -1,6 +1,6 @@
 # software-eng-project
 
-This VUI based game was developed as part of my software engineering module. A game was developed to be played in the console with rules similar to monopoly and an environmental friendly theme to 'Save Our Planet'.
+This text based game was developed as part of my software engineering module. A game was developed to be played in the console with rules similar to monopoly and an environmental friendly theme to 'Save Our Planet'.
 This project gave me exposure to working within a team environment with 3 other students to plan, construct UML, develop and test a simple GUI based game while applying OOP principles in Java.
 
 -----------------------------
